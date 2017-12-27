@@ -4,6 +4,10 @@ const style = {
     margin:'0 auto',
     fontFamily:'Helvetica, sans-serif'
     },
+    commentItTitle: {
+    textAlign:'center',
+    fontFamily:'Helvetica, sans-serif'
+    },
     title: {
     textAlign:'center',
     textTransform:'uppercase'
